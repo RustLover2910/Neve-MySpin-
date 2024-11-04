@@ -21,7 +21,7 @@
         enable = true;
       }; # snippets
       copilot-cmp = {
-        enable = true;
+        enable = false;
       }; # copilot suggestions
       cmp = {
         enable = true;
